@@ -1,11 +1,31 @@
 # 🌿 Aetheria — Sustainable Facility Care & Commercial Stewardship
 
-[![Vue 3](https://img.shields.io/badge/Vue-3.5+-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.0+-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0+-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,html,css,tailwind,vite,nodejs,git,vscode" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue-3.5+-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue 3" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-6.0+-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-4.0+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+</p>
 
 A modern, high-performance, and responsive corporate landing page built for **Aetheria Facility & Care Ltd.** Featuring enterprise-grade facility management, commercial sanitization, and sustainable surface restoration services.
+
+---
+
+## 🛠️ Tech Stack & Technologies
+
+| Kategori | Teknologi | Deskripsi |
+| :--- | :---: | :--- |
+| **Frontend Framework** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue 3" /><br>[**Vue 3**](https://vuejs.org/) | Modern Reactive Framework dengan Composition API & `<script setup>` |
+| **Language** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" /><br>[**TypeScript**](https://www.typescriptlang.org/) | Type safety penuh, autocompletion, dan pemeliharaan kode yang kuat |
+| **Markup & Semantic** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5" /><br>**HTML5** | Semantic tags, SEO Structured Schema JSON-LD & OpenGraph |
+| **Styling & Design** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="Tailwind CSS" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3" /><br>[**Tailwind CSS**](https://tailwindcss.com/) & CSS3 | Utility-first styling, CSS Variables, Glassmorphism, & Micro-animations |
+| **Bundler / Tooling** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="28" height="28" alt="Vite" /><br>[**Vite**](https://vitejs.dev/) | Next Generation Frontend Tooling dengan Hot Module Replacement super cepat |
+| **Routing** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue Router" /><br>[**Vue Router 4**](https://router.vuejs.org/) | Client-side routing dengan smooth scroll behavior |
+| **Runtime Environment**| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" /><br>[**Node.js**](https://nodejs.org/) | JavaScript runtime engine & NPM package management |
 
 ---
 
@@ -31,16 +51,6 @@ A modern, high-performance, and responsive corporate landing page built for **Ae
 - **Contact Us (`/contact`)**:
   - Formulir konsultasi interaktif dengan validasi form.
   - Informasi kontak resmi, jam operasional, dan integrasi peta lokasi interaktif.
-
----
-
-## 🛠️ Tech Stack
-
-- **Framework**: [Vue 3](https://vuejs.org/) (Composition API + `<script setup>`)
-- **Language**: [TypeScript](https://www.typescriptlang.org/) (Strict Type Checking)
-- **Routing**: [Vue Router 4](https://router.vuejs.org/)
-- **Bundler & Build Tool**: [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) & Custom Modern CSS (CSS Variables, Backdrop Filters, Glassmorphism, Micro-interactions)
 
 ---
 
