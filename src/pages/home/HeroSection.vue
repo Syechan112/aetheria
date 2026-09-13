@@ -9,6 +9,9 @@ import heroImage from "@/assets/pages/home/hero.webp";
       <img
         :src="heroImage"
         alt="Clean and sustainable environment"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
         class="h-full w-full object-cover object-center" />
 
       <div class="absolute inset-0 bg-zinc-950/50" />

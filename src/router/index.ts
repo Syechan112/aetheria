@@ -1,9 +1,11 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomePage from '../pages/HomePage.vue'
-import AboutUs from '../pages/AboutUs.vue'
-import Service from '../pages/Service.vue'
-import OurWork from '../pages/OurWork.vue'
-import ContactUs from '../pages/ContactUs.vue'
+
+// Route-level Code Splitting / Lazy Loading
+const HomePage = () => import('../pages/HomePage.vue')
+const AboutUs = () => import('../pages/AboutUs.vue')
+const Service = () => import('../pages/Service.vue')
+const OurWork = () => import('../pages/OurWork.vue')
+const ContactUs = () => import('../pages/ContactUs.vue')
 
 const routes = [
   {
