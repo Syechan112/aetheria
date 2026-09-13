@@ -92,8 +92,8 @@ Pastikan komputer kamu sudah terinstall:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Syechan112/aetheria-landing-page.git
-cd aetheria-landing-page
+git clone https://github.com/Syechan112/aetheria.git
+cd aetheria
 ```
 
 ### 2. Install Dependensi
