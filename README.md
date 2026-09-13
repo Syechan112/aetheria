@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://aetheria-profile.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue-3.5+-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue 3" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-6.0+-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
@@ -12,6 +13,8 @@
 </p>
 
 A modern, high-performance, and responsive corporate landing page built for **Aetheria Facility & Care Ltd.** Featuring enterprise-grade facility management, commercial sanitization, and sustainable surface restoration services.
+
+🔗 **Live URL:** [https://aetheria-profile.vercel.app/](https://aetheria-profile.vercel.app/)
 
 ---
 
